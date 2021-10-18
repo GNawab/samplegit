@@ -1,3 +1,4 @@
 anoihgter file called devops
 
 to push again:
+to revert from git to bash
